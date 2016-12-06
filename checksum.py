@@ -32,6 +32,7 @@ available_str = ''
 
 if args.algorithm not in available:
     print('Error: specified algorithm not available. Supported algorithms for your platform include: {}'.format(stringfy_list(available)))
+    exit()
 
 file = open(args.file_path, 'rb')
 
