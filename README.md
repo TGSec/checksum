@@ -16,6 +16,6 @@ optional arguments:
 ```
 
 ## Creator
-Created by: thegamerbr1\
-Telegram: @thegamerbr1
+Created by: thegamerbr1\n
+Telegram: @thegamerbr1\n
 Skype: xthegamerbr1x
