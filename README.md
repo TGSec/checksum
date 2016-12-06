@@ -2,7 +2,8 @@
 Simple script in Python to get the hash of a file.
 
 ## Usage
-```usage: checksum.py [-h] algorithm file_path
+```
+usage: checksum.py [-h] algorithm file_path
 
 Encrypts a file using a hash algorithm. Cool for chechsums.
 
