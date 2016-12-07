@@ -23,7 +23,7 @@ parser.add_argument('file_path', help='path to the file to be encrypted.')
 args = parser.parse_args()
 
 if not path.isfile(args.file_path): #If file doesnt exist
-    print('Error: specified file "args.file_path" doesn\'t exist.')
+    print('Error: specified file "{}" doesn\'t exist.'.format(args.file_path))
     exit()
 
 available = hashlib.algorithms_available
